@@ -1,2 +1,2 @@
 # Simple-Calculator
-I made a simple calculator using CSS , JAVASCRIPT.
+I made a simple calculator using HTML , CSS , JAVASCRIPT.
